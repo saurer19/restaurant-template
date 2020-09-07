@@ -6,4 +6,5 @@ categories:
 description: Cilantro and Onions
 type: Tacos
 price: "2.50"
+food-categories: Tacos
 ---
